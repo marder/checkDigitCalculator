@@ -39,7 +39,7 @@ If you don't know the signature of court, type:
 ## Version History
 
 * 0.2
-  * new option: help and court signatures list
+  * new options: help and court signatures list
 * 0.1
   * Early version
 
