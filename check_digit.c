@@ -208,6 +208,11 @@ void court()
         printf(" | ");
         printf(ANSI_COLOR_RESET);
 
+        if ((i % 5) - 4 == 0)
+        {
+            printf("\n");
+        }
+
         if (i == 346)
         {
             printf("\n");
